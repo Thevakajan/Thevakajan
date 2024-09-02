@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevakajan" alt="thevakajan" /></a> </p>
 
-- 🔭 I’m currently working on **Debet Collection System**
+- 🔭 I’m currently working on **IFS **
 
 - 🌱 I’m currently learning **Jest js,Python ,Java Script,C#**
 
